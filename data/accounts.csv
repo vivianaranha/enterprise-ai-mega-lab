@@ -1,0 +1,9 @@
+account_id,name,industry,region,annual_revenue_m,employees,health,strategic_tier,products_owned,renewal_month,growth_signal,risk_signal
+ACC-001,Apex Manufacturing,Manufacturing,North America,820,5200,Healthy,Tier 1,Cloud Connect;Secure Edge,2026-11,New smart factory initiative,None
+ACC-002,RedStone Energy,Energy,North America,2400,11200,Healthy,Tier 1,Managed Network,2027-02,Network modernization program announced,Legacy infrastructure
+ACC-003,BlueRiver Bank,Financial Services,North America,1350,8900,At Risk,Tier 1,Secure Edge;Contact Center AI,2026-10,AI transformation budget approved,Two critical support incidents
+ACC-004,Harbor Health Systems,Healthcare,North America,610,6900,Healthy,Tier 2,Cloud Connect,2027-01,Acquired three clinics,Security review pending
+ACC-005,Summit Retail Group,Retail,North America,980,17000,Watch,Tier 2,Managed Network;Analytics Suite,2026-09,500-store digital refresh,Low executive engagement
+ACC-006,Orion Logistics,Logistics,Europe,720,7600,Healthy,Tier 2,IoT Fleet,2027-03,Warehouse automation expansion,None
+ACC-007,NovaTel Communications,Telecommunications,Asia Pacific,3200,22000,Healthy,Tier 1,Cloud Connect;AI Ops,2027-04,5G edge expansion,Competitive evaluation underway
+ACC-008,Cedar State University,Education,North America,410,4300,Healthy,Tier 3,Secure Edge,2027-05,Campus AI initiative,Budget cycle timing

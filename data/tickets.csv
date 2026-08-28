@@ -1,0 +1,6 @@
+ticket_id,account_id,severity,status,category,age_hours,sla_hours,sentiment,summary,assigned_team
+TIC-001,ACC-003,Critical,Open,Network,17,4,Frustrated,Intermittent payment network connectivity impacting branch transactions,Network Operations
+TIC-002,ACC-003,High,Open,AI Platform,9,8,Negative,Contact center model latency increased after configuration update,AI Platform
+TIC-003,ACC-005,Medium,Open,Analytics,28,24,Neutral,Store dashboard refresh occasionally delayed,Analytics
+TIC-004,ACC-001,Low,Open,Access,5,48,Neutral,New engineer needs access to edge management portal,Identity
+TIC-005,ACC-004,High,Resolved,Security,3,8,Positive,Certificate rotation completed successfully,Security Operations

@@ -1,0 +1,6 @@
+sku,item,on_hand,reorder_point,weekly_demand,supplier,lead_time_days,unit_cost
+SKU-1001,Edge Gateway X1,38,30,14,Vertex Components,21,840
+SKU-1002,Secure Router R8,17,25,11,Nova Hardware,28,1250
+SKU-1003,IoT Sensor Pack,210,100,42,Vertex Components,14,120
+SKU-1004,Optical Module Z4,9,20,8,Lumina Systems,35,490
+SKU-1005,AI Edge Appliance A2,26,18,5,ComputeWorks,30,3100

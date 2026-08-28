@@ -1,0 +1,17 @@
+# Guided Labs
+
+- [01 — Explore the Enterprise API](01-explore-the-enterprise-api.md)
+- [02 — Understand the Tool Layer](02-understand-the-tool-layer.md)
+- [03 — Build Your First Specialist Agent](03-build-your-first-specialist-agent.md)
+- [04 — Agent Routing](04-agent-routing.md)
+- [05 — Sales Opportunity Intelligence](05-sales-opportunity-intelligence.md)
+- [06 — Customer Support Escalation](06-customer-support-escalation.md)
+- [07 — Local Enterprise RAG](07-local-enterprise-rag.md)
+- [08 — Add Ollama](08-add-ollama.md)
+- [09 — Human-in-the-Loop](09-human-in-the-loop.md)
+- [10 — Executive Super Agent](10-executive-super-agent.md)
+- [11 — Agent Evaluation](11-agent-evaluation.md)
+- [12 — Failure Engineering](12-failure-engineering.md)
+- [13 — Security Review](13-security-review.md)
+- [14 — Replace a Mock Connector](14-replace-a-mock-connector.md)
+- [15 — Production Design Challenge](15-production-design-challenge.md)

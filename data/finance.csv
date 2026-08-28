@@ -1,0 +1,8 @@
+period,department,budget_k,actual_k,variance_k,forecast_k,notes
+2026-08,Sales,520,548,28,564.4,Monthly operating spend
+2026-08,Engineering,880,915,35,942.5,Monthly operating spend
+2026-08,Support,410,438,28,451.1,Monthly operating spend
+2026-08,Finance,260,249,-11,256.5,Monthly operating spend
+2026-08,Operations,730,804,74,828.1,Monthly operating spend
+2026-08,HR,300,292,-8,300.8,Monthly operating spend
+2026-08,Marketing,360,401,41,413.0,Monthly operating spend

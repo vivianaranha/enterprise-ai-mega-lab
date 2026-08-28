@@ -1,0 +1,6 @@
+opportunity_id,account_id,name,stage,amount_k,probability,days_in_stage,next_step,owner,close_date
+OPP-001,ACC-001,Smart Factory Edge Expansion,Discovery,480,45,12,Technical assessment,Alex Rivera,2026-10-30
+OPP-002,ACC-002,Network Modernization,Qualification,1250,60,9,Executive architecture workshop,Morgan Patel,2026-12-15
+OPP-003,ACC-003,AI Service Operations,Proposal,760,65,31,Resolve support concerns,Jamie Foster,2026-09-30
+OPP-004,ACC-005,Store Network Refresh,Discovery,900,35,44,Re-engage executive sponsor,Taylor Morgan,2026-11-30
+OPP-005,ACC-006,Warehouse Automation Platform,Qualification,640,55,18,Validate integration requirements,Robin Singh,2026-12-20

@@ -1,0 +1,37 @@
+openapi: 3.0.3
+info:
+  title: Generic Enterprise Entity API
+  version: 1.0.0
+  description: Example generic CRUD contract for connecting agents to enterprise entities.
+servers:
+  - url: http://localhost:8000
+paths:
+  /data/{resource}:
+    get:
+      operationId: getAllEntities
+      parameters:
+        - in: path
+          name: resource
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Entity collection
+  /data/{resource}/{id}:
+    get:
+      operationId: getEntityById
+      parameters:
+        - in: path
+          name: resource
+          required: true
+          schema:
+            type: string
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Entity

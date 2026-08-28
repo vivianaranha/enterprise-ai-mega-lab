@@ -1,0 +1,7 @@
+employee_id,name,department,role,location,tenure_years,performance,manager,skills
+EMP-001,Nora Bennett,Sales,Enterprise Account Executive,New York,6,Exceeds,Chris Young,Enterprise Sales;Cloud;AI
+EMP-002,Ethan Ross,Engineering,AI Engineer,Toronto,3,Exceeds,Leah Grant,Python;RAG;Agents;FastAPI
+EMP-003,Mina Shah,Support,Support Engineer,Atlanta,4,Meets,Derek Hall,Networking;Troubleshooting
+EMP-004,Lucas Meyer,Finance,Financial Analyst,Chicago,2,Meets,Ana Costa,FP&A;SQL;Forecasting
+EMP-005,Grace Liu,Operations,Supply Chain Manager,Dallas,7,Exceeds,Ben Carter,Procurement;Inventory;Logistics
+EMP-006,Amara Okafor,HR,HR Business Partner,Boston,5,Exceeds,Rachel Stone,Workforce Planning;Talent;Policy

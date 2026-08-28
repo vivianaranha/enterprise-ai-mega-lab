@@ -1,0 +1,3 @@
+# Travel and Expense Policy
+
+Employees should book business travel through the approved corporate travel portal. Economy class is the default for flights under six hours. Premium economy may be used for flights of six hours or longer with manager approval. Hotel spend should remain within the published city rate unless no compliant room is available. Meals are reimbursable up to $80 per day with itemized receipts. Expenses must be submitted within 15 calendar days after the trip ends. Personal entertainment, minibar charges, and airline lounge memberships are not reimbursable unless separately approved by an executive vice president.

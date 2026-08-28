@@ -1,0 +1,10 @@
+contact_id,account_id,name,title,email,influence,relationship
+CON-001,ACC-001,Maya Chen,VP Technology Operations,maya.chen@example.com,High,Strong
+CON-002,ACC-001,Jordan Wells,Director Infrastructure,jordan.wells@example.com,Medium,Strong
+CON-003,ACC-002,Elena Torres,Chief Information Officer,elena.torres@example.com,High,Warm
+CON-004,ACC-002,Marcus Lee,VP Network Engineering,marcus.lee@example.com,High,Strong
+CON-005,ACC-002,Priya Nair,Director Enterprise Architecture,priya.nair@example.com,Medium,New
+CON-006,ACC-003,David Kim,SVP Digital Banking,david.kim@example.com,High,Warm
+CON-007,ACC-004,Alicia Morgan,CIO,alicia.morgan@example.com,High,Strong
+CON-008,ACC-005,Owen Brooks,VP Store Technology,owen.brooks@example.com,High,Cold
+CON-009,ACC-006,Sofia Bauer,Head of Automation,sofia.bauer@example.com,High,Warm

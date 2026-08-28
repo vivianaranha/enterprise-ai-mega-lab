@@ -1,0 +1,5 @@
+shipment_id,supplier,destination,status,eta,days_late,items,risk
+SHP-001,Nova Hardware,Dallas DC,Delayed,2026-08-26,3,Secure Router R8,High
+SHP-002,Lumina Systems,Dallas DC,In Transit,2026-08-29,0,Optical Module Z4,Medium
+SHP-003,Vertex Components,Toronto Lab,In Transit,2026-08-24,0,Edge Gateway X1,Low
+SHP-004,ComputeWorks,Chicago DC,Delivered,2026-08-21,0,AI Edge Appliance A2,Low

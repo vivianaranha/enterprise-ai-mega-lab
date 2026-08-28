@@ -1,0 +1,4 @@
+meeting_id,account_id,date,participants,topic,status
+MTG-001,ACC-001,2026-08-27,Maya Chen;Jordan Wells;Alex Rivera,Smart factory edge architecture,Scheduled
+MTG-002,ACC-002,2026-08-28,Elena Torres;Marcus Lee;Priya Nair;Morgan Patel,Network modernization executive workshop,Scheduled
+MTG-003,ACC-003,2026-08-25,David Kim;Jamie Foster,Service recovery and AI operations,Scheduled
